@@ -7,6 +7,7 @@ class AppColors {
   static const background = Color(0xFFF5F7FA);
   static const textDark = Color(0xFF1A1A2E);
   static const splashBackground = Color(0xFF000074);
+  static const loginBackground = Color(0xFFD8D8E9);
 }
 
 class AppTheme {

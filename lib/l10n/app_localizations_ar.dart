@@ -16,4 +16,34 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get language => 'اللغة';
+
+  @override
+  String get email => 'البريد الإلكتروني';
+
+  @override
+  String get emailHint => 'أدخل بريدك الإلكتروني';
+
+  @override
+  String get password => 'كلمة المرور';
+
+  @override
+  String get passwordHint => 'أدخل كلمة المرور';
+
+  @override
+  String get login => 'تسجيل الدخول';
+
+  @override
+  String get forgotPassword => 'نسيت كلمة المرور؟';
+
+  @override
+  String get noAccount => 'معندكش حساب؟';
+
+  @override
+  String get signUp => 'إنشاء حساب';
+
+  @override
+  String get orDivider => 'أو';
+
+  @override
+  String get continueWithGoogle => 'تسجيل الدخول بجوجل';
 }

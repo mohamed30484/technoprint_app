@@ -2,5 +2,15 @@
   "@@locale": "ar",
   "appTitle": "معرض تكنوبرنت",
   "welcomeMessage": "جاهزين نبدأ التصميم صفحة صفحة",
-  "language": "اللغة"
+  "language": "اللغة",
+  "email": "البريد الإلكتروني",
+  "emailHint": "أدخل بريدك الإلكتروني",
+  "password": "كلمة المرور",
+  "passwordHint": "أدخل كلمة المرور",
+  "login": "تسجيل الدخول",
+  "forgotPassword": "نسيت كلمة المرور؟",
+  "noAccount": "معندكش حساب؟",
+  "signUp": "إنشاء حساب",
+  "orDivider": "أو",
+  "continueWithGoogle": "تسجيل الدخول بجوجل"
 }

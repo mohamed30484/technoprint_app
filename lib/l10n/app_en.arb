@@ -2,5 +2,15 @@
   "@@locale": "en",
   "appTitle": "Technoprint Exhibition",
   "welcomeMessage": "Ready to design page by page",
-  "language": "Language"
+  "language": "Language",
+  "email": "Email",
+  "emailHint": "Enter your email",
+  "password": "Password",
+  "passwordHint": "Enter your password",
+  "login": "Login",
+  "forgotPassword": "Forgot password?",
+  "noAccount": "Don't have an account?",
+  "signUp": "Sign Up",
+  "orDivider": "OR",
+  "continueWithGoogle": "Continue with Google"
 }
